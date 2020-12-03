@@ -7,8 +7,11 @@
 - I also help develop systems for the integration of Health data through the usage of public blockchains.
 
 🌱 Right now, I'm learning these tools: the Python language and Object-oriented Programming.
+
 📫 You can reach me at: eduardaoliveiragomess@gmail.com
+
 ⚡ Fun fact: I know how to make origami.
+
 💬 Languages I speak: Portuguese (native) and English(intermediary).
 
 <!--
