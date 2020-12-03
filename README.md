@@ -1,8 +1,5 @@
 ### Hi there 👋 I will tell you a little about myself
 
-<!--
-**eduardagomess/eduardagomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🙋 My name is Eduarda and I'm an undergrad student of Information Systems at the Federal University Of Santa Catarina (UFSC), Brasil.
 
 🔎 I'm a researcher at the Distributed Systems Research Lab (LAPESD) at UFSC. Here's what I mainly work with:
@@ -13,3 +10,7 @@
 📫 You can reach me at: eduardaoliveiragomess@gmail.com
 ⚡ Fun fact: I know how to make origami.
 💬 Languages I speak: Portuguese (native) and English(intermediary).
+
+<!--
+**eduardagomess/eduardagomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
