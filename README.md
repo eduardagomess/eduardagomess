@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I will tell you a little about myself
 
 <!--
 **eduardagomess/eduardagomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🙋 My name is Eduarda and I'm an undergrad student of Information Systems at the Federal University Of Santa Catarina (UFSC), Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 I'm a researcher at the Distributed Systems Research Lab (LAPESD) at UFSC. Here's what I mainly work with:
+- I help develop systems through the integration of cryptocurrencies for the "Economy of Things" field. 
+- I also help develop systems for the integration of Health data through the usage of public blockchains.
+
+🌱 Right now, I'm learning these tools: the Python language and Object-oriented Programming.
+📫 You can reach me at: eduardaoliveiragomess@gmail.com
+⚡ Fun fact: I know how to make origami.
+💬 Languages I speak: Portuguese (native) and English(intermediary).
