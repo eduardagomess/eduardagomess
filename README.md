@@ -10,8 +10,6 @@
 
 📫 You can reach me at: eduardaoliveiragomess@gmail.com
 
-⚡ Fun fact: I know how to make origami.
-
 💬 Languages I speak: Portuguese (native) and English(intermediary).
 
 <!--
