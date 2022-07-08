@@ -2,7 +2,7 @@
 
 🙋 My name is Eduarda and I'm an undergrad student of Information Systems at the Federal University Of Santa Catarina (UFSC), Brasil.
 
-:computer: I'm a software developer at LabSEC- UFSC.
+:computer: I'm a software developer intern at OnSignTV.
 
 🌱 Right now, I'm learning these tools: the Python, JS languages and Object-oriented Programming.
 
